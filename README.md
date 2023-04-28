@@ -1,67 +1,9 @@
 ## Hey :wave:, I'm [Naeem!](https://github.com/naeemhhassan/)  
 
-<p align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
-
-</p>
-
-
-
-<h1 align="center">
-
-  Let's Connect and have a Chat!💬
-
-</h1>
-
-
-
-<p align="center">
-
-
-<a href="https://www.linkedin.com/in/naeemhhassan/">
-
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-
-</a>
-
-
-<a href="https://twitter.com/iamnaeemhhassan">
-
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
-
-</a>
-
-<a href="https://www.instagram.com/_.naeemh/">
-
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-
-</a>
-
-</p>
-
-
-
-<p align="center">
-
-  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
-
-</p>
 
 
 
 ---
-
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](<[https://linkedin.com/in/naeemhhassan](https://www.linkedin.com/in/naeemhhassan/)>)
-
-<!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://naeemhhassan.github.io/) -->
-
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iamnaeemhassan)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](<[https://instagram.com/naeemhhassan/](https://www.instagram.com/_.naeemh)>)
-
-<!-- [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)]() -->
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=naeemhhassan&style=flat-square&color=0088cc)
 
@@ -199,3 +141,44 @@ Joined Github **5** years ago.
 
 </div>
 </p>
+
+
+<h1 align="center">
+
+  Let's Connect and have a Chat!💬
+
+</h1>
+
+
+
+<p align="center">
+
+
+<a href="https://www.linkedin.com/in/naeemhhassan/">
+
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+
+</a>
+
+
+<a href="https://twitter.com/iamnaeemhassan">
+
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
+
+</a>
+
+<a href="https://www.instagram.com/_.naeemh/">
+
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+
+</a>
+
+</p>
+
+
+
+<p align="center">
+
+  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
+
+</p>  
